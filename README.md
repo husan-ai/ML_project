@@ -37,7 +37,7 @@ This repository showcases multiple machine learning tasks including classificati
 - Scikit-learn
 - Matplotlib / Seaborn
 
-## ⚙️ Workflow
+## Workflow
 - Data cleaning
 - Feature engineering
 - Model training
