@@ -1,57 +1,56 @@
-# Machine Learning loyihalari (ML_project)
+# Machine Learning Projects (ML_project)
 
-Ushbu repositoryda mening Machine Learning yo‘nalishida bajargan amaliy loyihalarim jamlangan. Loyihalar real ma’lumotlar asosida qurilgan bo‘lib, turli ML usullarini o‘z ichiga oladi.
+This repository contains my machine learning projects built using real-world datasets and practical implementations.
 
-## 📚 Loyiha haqida
-Bu repositoryda klassifikatsiya, regressiya, klasterlash (unsupervised learning) va ma’lumotlarni tayyorlash (data preprocessing) kabi asosiy Machine Learning jarayonlari yoritilgan.
+## 📚 About
+This repository showcases multiple machine learning tasks including classification, regression, clustering, and data preprocessing.
 
-## 🧠 Loyihalar
+## 🧠 Projects Included
 
-### 1. Mijoz chiqib ketishini bashorat qilish (Churn Prediction)
-- Mijoz xizmatni tark etadimi yoki yo‘q — shuni aniqlaydi
-- Modellar: Logistic Regression, Random Forest, XGBoost
+### 1. Customer Churn Prediction
+- Predicts whether a customer will leave a service
+- Models: Logistic Regression, Random Forest, XGBoost
 
-### 2. Diabetni aniqlash (KNN)
-- Klassifikatsiya modeli orqali diabet bor-yo‘qligini aniqlash
-- Algoritm: K-Nearest Neighbors
+### 2. Diabetes Prediction (KNN)
+- Classification model to detect diabetes
+- Algorithm: K-Nearest Neighbors
 
-### 3. Uy narxini bashorat qilish (Toshkent)
-- Uy narxini turli omillarga qarab aniqlash
-- Regressiya modeli
+### 3. House Price Prediction (Tashkent)
+- Predicts house prices based on features
+- Regression model
 
-### 4. California Housing loyihasi
-- Ma’lumotlarni tozalash va model qurish
+### 4. California Housing Dataset
+- Data preprocessing and model building
 
-### 5. Qo‘ziqorinlarni tasniflash
-- Yeyiladigan va zaharli qo‘ziqorinlarni aniqlash
+### 5. Mushroom Classification
+- Classification of edible vs poisonous mushrooms
 
-### 6. Reklama ta’siri tahlili
-- Reklamaning natijaga ta’sirini aniqlash
-- Linear Regression
+### 6. Advertising Impact Analysis
+- Linear regression to analyze advertising impact
 
-### 7. Unsupervised Learning (Savdo ma’lumotlari)
-- Klasterlash va patternlarni aniqlash
+### 7. Unsupervised Learning (Sales Data)
+- Clustering and pattern detection
 
-## 💻 Texnologiyalar
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib, Seaborn  
+## 💻 Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
 
-## ⚙️ Ish jarayoni
-- Ma’lumotlarni tozalash (Data Cleaning)  
-- Feature engineering  
-- Model yaratish (Training)  
-- Model baholash (Evaluation)  
+## ⚙️ Workflow
+- Data cleaning
+- Feature engineering
+- Model training
+- Model evaluation
 
-## 🎯 Maqsad
-Ushbu repositoryning maqsadi Machine Learning bilimlarini amaliyotda qo‘llash va AI/ML yo‘nalishida real tajriba orttirishdir.
+## 🎯 Purpose
+The goal of this repository is to apply machine learning concepts on real datasets and improve practical skills in AI/ML.
 
-## 🚀 Kelajak rejalari
-- Deep Learning loyihalarini qo‘shish (TensorFlow, PyTorch)  
-- Modellarni yaxshilash  
-- Yangi real datasetlar bilan ishlash  
+## 🚀 Future Improvements
+- Add deep learning projects (TensorFlow, PyTorch)
+- Improve model performance
+- Add more real-world datasets
 
-## 📌 Muallif
+## 📌 Author
 Muhammadiyev Husan  
 GitHub: https://github.com/husan-ai
