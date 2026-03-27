@@ -1,56 +1,48 @@
 # Machine Learning Projects (ML_project)
 
-This repository contains my machine learning projects built using real-world datasets and practical implementations.
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-## About
-This repository showcases multiple machine learning tasks including classification, regression, clustering, and data preprocessing.
+## Overview
 
-## Projects Included
+This repo contains hands-on exercises and mini-projects completed during **Machine Learning** training. Skills practiced include data preparation, exploratory data analysis, and model building — following the **CRISP-DM** methodology.
 
-### 1. Customer Churn Prediction
-- Predicts whether a customer will leave a service
-- Models: Logistic Regression, Random Forest, XGBoost
+---
 
-### 2. Diabetes Prediction (KNN)
-- Classification model to detect diabetes
-- Algorithm: K-Nearest Neighbors
+## Notebooks
 
-### 3. House Price Prediction (Tashkent)
-- Predicts house prices based on features
-- Regression model
+| File | Topic |
+|------|-------|
+| `malumotlarni_tayyorlash_ML(californiya).ipynb` | Data cleaning & preparation |
+| `3-qadam_hammasi_ML(californiya).ipynb` | EDA, preprocessing, model building |
+| `4-5-qadam_ML.ipynb` | Model evaluation & improvement |
+| `Reklamaga_vositalar_tasiri_ML(Simple_Linear_Regression).ipynb` | Simple Linear Regression — TV advertising vs sales |
 
-### 4. California Housing Dataset
-- Data preprocessing and model building
+> Standalone portfolio projects are in separate repositories — see the section below.
 
-### 5. Mushroom Classification
-- Classification of edible vs poisonous mushrooms
+---
 
-### 6. Advertising Impact Analysis
-- Linear regression to analyze advertising impact
+## Portfolio Projects
 
-### 7. Unsupervised Learning (Sales Data)
-- Clustering and pattern detection
+| Project | Topic | Algorithm |
+|---------|-------|-----------|
+| [diabetes-classification-knn](https://github.com/husan-ai/diabetes-classification-knn) | 🩺 Diabetes prediction | KNN |
+| [customer-churn-prediction](https://github.com/husan-ai/customer-churn-prediction) | 🏦 Bank customer churn | XGBoost, Random Forest |
+| [tashkent-house-price-prediction](https://github.com/husan-ai/tashkent-house-price-prediction) | 🏠 Tashkent house prices | Linear Regression |
+| [wholesale-customer-segmentation](https://github.com/husan-ai/wholesale-customer-segmentation) | 🛒 Customer segmentation | KMeans, DBSCAN |
+| [mushroom-classification](https://github.com/husan-ai/mushroom-classification) | 🍄 Mushroom toxicity | Random Forest, Decision Tree |
 
-## Technologies Used
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib / Seaborn
+---
 
-## Workflow
-- Data cleaning
-- Feature engineering
-- Model training
-- Model evaluation
+## Tech Stack
 
-## Purpose
-The goal of this repository is to apply machine learning concepts on real datasets and improve practical skills in AI/ML.
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-learn`
 
-## Future Improvements
-- Add deep learning projects (TensorFlow, PyTorch)
-- Improve model performance
-- Add more real-world datasets
+---
 
 ## Author
-Muhammadiyev Husan  
-GitHub: https://github.com/husan-ai
+
+**Husan**  
+ML | DL | NLP  
+GitHub: [@husan-ai](https://github.com/husan-ai)
